@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 este archivo lo creo en un segundo commit
 
 def funcion():
@@ -9,3 +10,6 @@ def funcion2():
 def funcion3():
 	print("hola mundo")
 
+=======
+este archivo lo creo en un segundo commit
+>>>>>>> parent of f57d931... agregando funcion y funcion2 al archivo foo
