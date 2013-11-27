@@ -1,0 +1,9 @@
+este archivo lo creo en un segundo commit
+
+def funcion():
+	print("hola mundo")
+
+def funcion2():
+	print("hola mundo2")
+
+
